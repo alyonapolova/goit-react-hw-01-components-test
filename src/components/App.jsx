@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <>
       1 - Profile in social media
-      <Profile user={user} />
+      <Profile user={user} />2 - Statistic section
     </>
   );
 };
